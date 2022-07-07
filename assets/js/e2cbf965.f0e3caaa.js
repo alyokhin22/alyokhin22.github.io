@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[7689],{1195:l=>{l.exports=JSON.parse('{"label":"fylik","permalink":"/blog/tags/fylik","allTagsPath":"/blog/tags","count":1}')}}]);

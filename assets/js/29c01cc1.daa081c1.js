@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[8706],{4664:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/\u043f\u0430\u0440\u0442\u043d\u0451\u0440\u044b","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

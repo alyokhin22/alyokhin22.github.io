@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[1183],{9413:a=>{a.exports=JSON.parse('{"label":"cra-scaffold","permalink":"/blog/tags/cra-scaffold","allTagsPath":"/blog/tags","count":1}')}}]);

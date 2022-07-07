@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[324],{677:a=>{a.exports=JSON.parse('{"label":"bce","permalink":"/blog/tags/bce","allTagsPath":"/blog/tags","count":1}')}}]);

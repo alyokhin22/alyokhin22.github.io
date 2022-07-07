@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[503],{2162:a=>{a.exports=JSON.parse('{"label":"telegram","permalink":"/blog/tags/telegram","allTagsPath":"/blog/tags","count":5}')}}]);
