@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alyokhin22.org/blog</id>
     <title>Александр Алёхин Blog</title>
-    <updated>2022-07-04T00:00:00.000Z</updated>
+    <updated>2022-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alyokhin22.org/blog"/>
     <subtitle>Александр Алёхин Blog</subtitle>
     <icon>https://alyokhin22.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Я сделал бота для проекта InCon]]></title>
+        <id>incon-bot</id>
+        <link href="https://alyokhin22.org/blog/incon-bot"/>
+        <updated>2022-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Сделал Telegram-бота для проекта InCon (ещё 2 месяца назад, но тогда он был совершенно другим нежели сейчас)]]></summary>
+        <content type="html"><![CDATA[<p>Сделал Telegram-бота для проекта InCon (ещё 2 месяца назад, но тогда он был совершенно другим нежели сейчас)</p><p>Основная задача бота - привлечь людей в соц. сети проекта. Бот имеет богатвый функционал:</p><ul><li>Мультиязычность (русский/английский);</li><li>Реферальная система (многоуровневая. То есть бонусы выдаются даже тому, кто пригласил того, кто пригласил вас);</li><li>Обращение к VK и Twitter API для проверки выполнения заданий пользователями;</li><li>Гибкая настройка бота - поменять текст, описание, соц. сети можно за несколько минут;</li><li>У бота есть админский веб-интерфейс, откуда администрация проекта может управлять ботом и изменять его поведение</li></ul><p>Стек разработки: MERN</p><p>Бот написан с полного нуля и работает на собственных серверах InCon</p><p>Посмотреть его можно тут: <a href="https://t.me/InConNetworkingBot" target="_blank" rel="noopener noreferrer">https://t.me/InConNetworkingBot</a></p><p><img loading="lazy" src="/assets/images/incon-bot-08cd270ff3310ca32a57c0db40e8099c.png" width="472" height="668" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Alexander Developer</name>
+            <uri>https://alyokhin22.org</uri>
+        </author>
+        <category label="портфолио" term="портфолио"/>
+        <category label="криптовалюта" term="криптовалюта"/>
+        <category label="telegram-боты" term="telegram-боты"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRA Scaffold]]></title>
         <id>cra-scaffold</id>

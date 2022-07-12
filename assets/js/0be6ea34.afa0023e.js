@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[9161],{9637:a=>{a.exports=JSON.parse('{"label":"telegram-\u0431\u043e\u0442\u044b","permalink":"/blog/tags/telegram-\u0431\u043e\u0442\u044b","allTagsPath":"/blog/tags","count":1}')}}]);

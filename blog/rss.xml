@@ -4,10 +4,21 @@
         <title>Александр Алёхин Blog</title>
         <link>https://alyokhin22.org/blog</link>
         <description>Александр Алёхин Blog</description>
-        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Я сделал бота для проекта InCon]]></title>
+            <link>https://alyokhin22.org/blog/incon-bot</link>
+            <guid>incon-bot</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Сделал Telegram-бота для проекта InCon (ещё 2 месяца назад, но тогда он был совершенно другим нежели сейчас)]]></description>
+            <content:encoded><![CDATA[<p>Сделал Telegram-бота для проекта InCon (ещё 2 месяца назад, но тогда он был совершенно другим нежели сейчас)</p><p>Основная задача бота - привлечь людей в соц. сети проекта. Бот имеет богатвый функционал:</p><ul><li>Мультиязычность (русский/английский);</li><li>Реферальная система (многоуровневая. То есть бонусы выдаются даже тому, кто пригласил того, кто пригласил вас);</li><li>Обращение к VK и Twitter API для проверки выполнения заданий пользователями;</li><li>Гибкая настройка бота - поменять текст, описание, соц. сети можно за несколько минут;</li><li>У бота есть админский веб-интерфейс, откуда администрация проекта может управлять ботом и изменять его поведение</li></ul><p>Стек разработки: MERN</p><p>Бот написан с полного нуля и работает на собственных серверах InCon</p><p>Посмотреть его можно тут: <a href="https://t.me/InConNetworkingBot" target="_blank" rel="noopener noreferrer">https://t.me/InConNetworkingBot</a></p><p><img loading="lazy" src="/assets/images/incon-bot-08cd270ff3310ca32a57c0db40e8099c.png" width="472" height="668" class="img_ev3q"></p>]]></content:encoded>
+            <category>портфолио</category>
+            <category>криптовалюта</category>
+            <category>telegram-боты</category>
+        </item>
         <item>
             <title><![CDATA[CRA Scaffold]]></title>
             <link>https://alyokhin22.org/blog/cra-scaffold</link>
