@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alyokhin22.org/blog</id>
     <title>Александр Алёхин Blog</title>
-    <updated>2022-07-13T00:00:00.000Z</updated>
+    <updated>2022-07-13T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alyokhin22.org/blog"/>
     <subtitle>Александр Алёхин Blog</subtitle>
     <icon>https://alyokhin22.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ещё один скаффолд. В этот раз Telegram-бот]]></title>
+        <id>telegram-bot-scaffold</id>
+        <link href="https://alyokhin22.org/blog/telegram-bot-scaffold"/>
+        <updated>2022-07-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Недавно я рассказал про то, что создал скаффолд для создания приложений на React. В этот раз я анонсирую скаффолд для]]></summary>
+        <content type="html"><![CDATA[<p>Недавно я рассказал про то, что создал скаффолд для создания приложений на React. В этот раз я анонсирую скаффолд для
+создания
+Telegram-ботов на Node.JS. Теперь создать простенького Telegram-бота я могу всего за несколько часов</p><p>Бот по умолчанию умеет:</p><ul><li>Отлавливать ошибки и говорить о них самому пользователю и в админский чат;</li><li>Записывает каждого пользователя, хоть раз взаимодействовавшего с ботом, в базу данных;</li><li>Обрабатывать команды, хранить состояние для каждого пользователя</li></ul><p>Исходники: <a href="https://github.com/alyokhin22/node-telegram-bot-scaffold" target="_blank" rel="noopener noreferrer">https://github.com/alyokhin22/node-telegram-bot-scaffold</a></p>]]></content>
+        <author>
+            <name>Alexander Developer</name>
+            <uri>https://alyokhin22.org</uri>
+        </author>
+        <category label="пет-проекты" term="пет-проекты"/>
+        <category label="telegram-bot-scaffold" term="telegram-bot-scaffold"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Я сделал бота для проекта InCon]]></title>
         <id>incon-bot</id>

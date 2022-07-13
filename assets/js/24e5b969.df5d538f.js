@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[1007],{5733:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/telegram-bot-scaffold","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

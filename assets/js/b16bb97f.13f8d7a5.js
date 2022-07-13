@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[9877],{2615:a=>{a.exports=JSON.parse('{"label":"telegram-bot-scaffold","permalink":"/blog/tags/telegram-bot-scaffold","allTagsPath":"/blog/tags","count":1}')}}]);

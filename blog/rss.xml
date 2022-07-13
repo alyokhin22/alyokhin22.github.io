@@ -4,10 +4,22 @@
         <title>Александр Алёхин Blog</title>
         <link>https://alyokhin22.org/blog</link>
         <description>Александр Алёхин Blog</description>
-        <lastBuildDate>Wed, 13 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Ещё один скаффолд. В этот раз Telegram-бот]]></title>
+            <link>https://alyokhin22.org/blog/telegram-bot-scaffold</link>
+            <guid>telegram-bot-scaffold</guid>
+            <pubDate>Wed, 13 Jul 2022 06:00:00 GMT</pubDate>
+            <description><![CDATA[Недавно я рассказал про то, что создал скаффолд для создания приложений на React. В этот раз я анонсирую скаффолд для]]></description>
+            <content:encoded><![CDATA[<p>Недавно я рассказал про то, что создал скаффолд для создания приложений на React. В этот раз я анонсирую скаффолд для
+создания
+Telegram-ботов на Node.JS. Теперь создать простенького Telegram-бота я могу всего за несколько часов</p><p>Бот по умолчанию умеет:</p><ul><li>Отлавливать ошибки и говорить о них самому пользователю и в админский чат;</li><li>Записывает каждого пользователя, хоть раз взаимодействовавшего с ботом, в базу данных;</li><li>Обрабатывать команды, хранить состояние для каждого пользователя</li></ul><p>Исходники: <a href="https://github.com/alyokhin22/node-telegram-bot-scaffold" target="_blank" rel="noopener noreferrer">https://github.com/alyokhin22/node-telegram-bot-scaffold</a></p>]]></content:encoded>
+            <category>пет-проекты</category>
+            <category>telegram-bot-scaffold</category>
+        </item>
         <item>
             <title><![CDATA[Я сделал бота для проекта InCon]]></title>
             <link>https://alyokhin22.org/blog/incon-bot</link>
