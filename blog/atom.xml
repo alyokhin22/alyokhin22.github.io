@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alyokhin22.org/blog</id>
     <title>Александр Алёхин Blog</title>
-    <updated>2022-07-17T00:00:00.000Z</updated>
+    <updated>2022-07-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alyokhin22.org/blog"/>
     <subtitle>Александр Алёхин Blog</subtitle>
     <icon>https://alyokhin22.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Бот для игры в "Города"]]></title>
+        <id>gorodadada-bot</id>
+        <link href="https://alyokhin22.org/blog/gorodadada-bot"/>
+        <updated>2022-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Сделал Telegram-бота для игры в города. Потратил на него примерно 2 часа. Стек Telegraf]]></summary>
+        <content type="html"><![CDATA[<p>Сделал Telegram-бота для игры в города. Потратил на него примерно 2 часа. Стек: Node.JS + MongoDB. Фреймворк: Telegraf</p><p>Сам бот: <a href="https://t.me/gorodadadabot" target="_blank" rel="noopener noreferrer">https://t.me/gorodadadabot</a> <br>
+Исходники: <a href="https://github.com/alyokhin22/gorodadada-bot" target="_blank" rel="noopener noreferrer">https://github.com/alyokhin22/gorodadada-bot</a></p>]]></content>
+        <author>
+            <name>Alexander Developer</name>
+            <uri>https://alyokhin22.org</uri>
+        </author>
+        <category label="пет-проекты" term="пет-проекты"/>
+        <category label="telegram" term="telegram"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Почему я ненавижу Telegram]]></title>
         <id>why-do-i-hate-telegram</id>

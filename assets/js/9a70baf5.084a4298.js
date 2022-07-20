@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalyokhin22_org=self.webpackChunkalyokhin22_org||[]).push([[5048],{3822:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/telegram","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

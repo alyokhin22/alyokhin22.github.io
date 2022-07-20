@@ -4,10 +4,21 @@
         <title>Александр Алёхин Blog</title>
         <link>https://alyokhin22.org/blog</link>
         <description>Александр Алёхин Blog</description>
-        <lastBuildDate>Sun, 17 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Бот для игры в "Города"]]></title>
+            <link>https://alyokhin22.org/blog/gorodadada-bot</link>
+            <guid>gorodadada-bot</guid>
+            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Сделал Telegram-бота для игры в города. Потратил на него примерно 2 часа. Стек Telegraf]]></description>
+            <content:encoded><![CDATA[<p>Сделал Telegram-бота для игры в города. Потратил на него примерно 2 часа. Стек: Node.JS + MongoDB. Фреймворк: Telegraf</p><p>Сам бот: <a href="https://t.me/gorodadadabot" target="_blank" rel="noopener noreferrer">https://t.me/gorodadadabot</a> <br>
+Исходники: <a href="https://github.com/alyokhin22/gorodadada-bot" target="_blank" rel="noopener noreferrer">https://github.com/alyokhin22/gorodadada-bot</a></p>]]></content:encoded>
+            <category>пет-проекты</category>
+            <category>telegram</category>
+        </item>
         <item>
             <title><![CDATA[Почему я ненавижу Telegram]]></title>
             <link>https://alyokhin22.org/blog/why-do-i-hate-telegram</link>
