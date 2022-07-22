@@ -4,10 +4,24 @@
         <title>Александр Алёхин Blog</title>
         <link>https://alyokhin22.org/blog</link>
         <description>Александр Алёхин Blog</description>
-        <lastBuildDate>Wed, 20 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Сделал сайтик для репетитора]]></title>
+            <link>https://alyokhin22.org/blog/toprepetitor</link>
+            <guid>toprepetitor</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Сделал сайт для репетитора по русскому языку]]></description>
+            <content:encoded><![CDATA[<p>Сделал сайт для репетитора по русскому языку</p><p>Задача стояла в максимально простом сайтике, на котором можно прочитать информацию об услугах и отзывах репетитора.
+Именно с такой просьбой обратилась ко мне Анастасия, владелица сего сайта.</p><p>Поначалу думал накидать лендинг, даже подобрал дизайн. Но в итоге выяснилось, что лендинга для такого сайта слишком
+много
+и нужно что-нибудь попроще.</p><p>В итоге я взял за основу Create React App и на нём собрал общий layout сайта со стандартными шапкой, менюшкой и
+контентом.
+На всё про всё по сайту ушло около 5 часов.</p><p>Ссылка на сам сайт: <a href="https://toprepetitor.ru" target="_blank" rel="noopener noreferrer">toprepetitor.ru</a></p>]]></content:encoded>
+            <category>портфолио</category>
+        </item>
         <item>
             <title><![CDATA[Бот для игры в "Города"]]></title>
             <link>https://alyokhin22.org/blog/gorodadada-bot</link>
