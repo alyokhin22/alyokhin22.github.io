@@ -12,6 +12,8 @@ image: https://fylik.ru/poster.png
 анонимно загружать файлы и кто угодно может их скачать. Все загруженные файлы находятся на главной странице проекта и со
 временем автоматически удаляются.
 
+![Fylik Poster](https://fylik.ru/poster.png)
+
 <!--truncate-->
 
 Файлик имеет открытый исходный
@@ -23,5 +25,3 @@ redux для хранения информации в браузере и обм
 MongoDB. Возможно в будущем сделаю реализацю на Redis вместо MongoDB.
 
 Сам проект [fylik.ru](https://fylik.ru)
-
-![Fylik Poster](https://fylik.ru/poster.png)

@@ -8,6 +8,8 @@ image: /img/blog/cpNGRDnaCGQ.jpg
 
 Сделал Telegram-бота для проекта So Skidki.
 
+![](/img/blog/cpNGRDnaCGQ.jpg)
+
 <!--truncate-->
 
 Это бот-каталог скидок на различные товары/услуги от крупных российских ритейлеров.
@@ -26,5 +28,3 @@ image: /img/blog/cpNGRDnaCGQ.jpg
 
 В плюс ко всему, я написал ещё одного бота, который автоматичеки пересылает посты из группы проекта во ВКонтакте в его
 же Telegram-канал. Стек разработки тот же
-
-![](/img/blog/cpNGRDnaCGQ.jpg)
