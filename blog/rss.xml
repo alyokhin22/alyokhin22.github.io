@@ -4,10 +4,34 @@
         <title>Александр Алёхин Blog</title>
         <link>https://alyokhin22.org/blog</link>
         <description>Александр Алёхин Blog</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Мой первый криптовалютный проект]]></title>
+            <link>https://alyokhin22.org/blog/incon</link>
+            <guid>incon</guid>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Сделал MVP для проекта InCon, базирующегося на блокчейн]]></description>
+            <content:encoded><![CDATA[<p>Сделал MVP для проекта InCon, базирующегося на блокчейн</p><p><img loading="lazy" src="/assets/images/incon-0bdbe203a66559397aadab74a87014ff.jpg" width="2100" height="939" class="img_ev3q"></p><p>В мае этого года я пропал и не продолжал заниматься <a href="/blog/tags/пет-проекты">своими проектами</a>. Это было связано с тем,
+что я ушёл в разработку блокчейн-проекта InCon. Подробнее о нём можно почитать на странице самого
+проекта: <a href="https://incon.app/whitePaper" target="_blank" rel="noopener noreferrer">https://incon.app/whitePaper</a> (да, там всё на английском).</p><p>Проект было решено делать на <strong>React</strong>. Создали главную страницу, создали страницы личного кабинета,
+написали базовые процедуры регистрации/авторизации. Сервер, кстати, на <strong>Node.JS</strong>, там всё как обычно.
+Реализована полноценная <strong>JWT-авторизация</strong>. Так же прикрутили <strong>Redis</strong> для хранения временных данных на сервере.</p><p>Позже, когда основные основы были готовы, решили взяться за интеграцией с <a href="https://metamask.io" target="_blank" rel="noopener noreferrer">Метамаском</a>.
+Это популярный блокчейн-клиент. Сделали на сайте <strong>авторизацию по кошельку через метамаск</strong>. На этом этапе я
+познакомился с <strong><a href="https://web3js.readthedocs.io/" target="_blank" rel="noopener noreferrer">Web3</a></strong> и успешно
+интегрировал его. Кроме авторизации по кошельку заработали и транзакции. Можно покупать токены INCON за BUSD.</p><p>Этот MVP стал моим самым дорогим в этом году. Только на мою часть работы было выделено более 150 000 рублей.
+Поскольку это мой первый криптовалютный проект, делал я его 2 месяца. За это время я сам активно подсел на криптовалюту
+с технической точки зрения и мне стало интересно делать криптовалютные проекты. Возможно в ближайшем будущем научусь
+писать
+смартконтракты и создавать свои токены.</p><p>Сейчас проект активно ведёт соц. сети и принимает инвестиции на дальнейшую разработку. На сайте планируется большое
+количество дополнительных разделов,
+работа над которыми уже идёт</p><p>Ссылка на сам сайт: <a href="https://incon.app" target="_blank" rel="noopener noreferrer">https://incon.app</a></p>]]></content:encoded>
+            <category>портфолио</category>
+            <category>криптовалюта</category>
+            <category>блокчейн</category>
+        </item>
         <item>
             <title><![CDATA[Рассекречиваю исходники лендинга своей студии]]></title>
             <link>https://alyokhin22.org/blog/hoolie-site</link>
